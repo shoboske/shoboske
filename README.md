@@ -1,4 +1,6 @@
-# Hi there, I'm Shoboske! 👋
+# Hi there, I'm Michael Shobowale 👋🏿
+
+_everything below here was AI generated_ :) 
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development, backend systems, and software engineering. Here's a bit about me:
 
@@ -8,7 +10,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 👯 I’m looking to collaborate on projects related to web development and backend systems.
 - 💬 Ask me about web development, backend systems, and software engineering.
 - 📫 How to reach me: https://michaelshobowale.com/contact
-- 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love exploring new technologies and contributing to open-source projects.
 
 ## 🛠️ Languages and Tools
